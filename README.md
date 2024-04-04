@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python Learning
 - 📫 How to reach me +91 7568034592 whatsappp me
 
-![View](https://komarev.com/ghpvc/?username=dheeraj5988&label=Profile%20views&color=0e75b6&style=flat&base=2000)
+![View](https://komarev.com/ghpvc/?username=dheeraj5988&label=Profile%20views&color=0e75b6&style=flat&base=15000000)
 
 <!---
 dheeraj5988/dheeraj5988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
