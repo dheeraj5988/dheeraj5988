@@ -8,4 +8,7 @@
 - 💞️ I’m looking to collaborate on Web App Pentesting  
 - 📫 How to reach me: +91 7568034592 (WhatsApp me)
 
+# 🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=dheeraj5988
+
 ![Profile views](https://komarev.com/ghpvc/?username=dheeraj5988&label=Profile%20views&color=0e75b6&style=flat)
