@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @dheeraj5988
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Cyber Security <script src="https://tryhackme.com/badge/3504668"></script>
+
+
 - 🌱 I’m currently learning Python,C++,Web Development
 - 💞️ I’m looking to collaborate on Python Learning
 - 📫 How to reach me +91 7568034592 whatsappp me
