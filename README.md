@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Dheeraj Sharma
 - 👀 I’m interested in Cyber Security
   
-- 🌱 I’m currently learning Python, C++, Web Development and Cyber Security-Pentesting,Vulnerability scanning
-      You can see my progres on ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png) (https://tryhackme.com/p/dheeraj5988)
+- 🌱 I’m currently learning Python, C++, Web Development and 
+      Cyber Security - Pentesting,Vulnerability scanning and more
+      You can see my progres on ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png)
       ![TryHackMe](https://tryhackme.com/p/dheeraj5988)
   
   
