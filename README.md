@@ -5,9 +5,11 @@
   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png)  
   [TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)
   <p align="right">
-    🚀 LeetCode Grind ! 
+  🚀 LeetCode Grind ! 
+  </p>
+  <p align="right">
   <img src="https://leetcard.jacoblin.cool/dheeraj_5988?theme=dark&ext=heatmap" width="400">
-</p>
+
 - 💞️ I’m looking to collaborate on Web App Pentesting  
 - 📫 How to reach me: +91 7568034592 (WhatsApp me)
 
