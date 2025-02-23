@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  🔗 ![TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)  
+  ![TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)  
   <span style="float: right;">🚀 LeetCode Grind | DSA </span>
 </div>
 
