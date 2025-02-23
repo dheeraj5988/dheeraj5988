@@ -7,6 +7,7 @@
 
 - 💞️ I’m looking to collaborate on Web App Pentesting  
 - 📫 How to reach me: +91 7568034592 (WhatsApp me)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dheeraj_5988?theme=dark&ext=heatmap)
 
 # 🏆 GitHub Trophies
 
