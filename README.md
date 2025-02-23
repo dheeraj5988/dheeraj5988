@@ -4,7 +4,7 @@
 ### 🏆 My Cyber & Coding Progress  
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png" alt="TryHackMe Badge" height="220">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png" alt="TryHackMe Badge" height="120">
   <img src="https://leetcard.jacoblin.cool/dheeraj_5988?theme=dark&ext=heatmap" width="400" alt="LeetCode Stats">
 </div>
 
