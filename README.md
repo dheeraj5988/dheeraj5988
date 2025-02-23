@@ -9,7 +9,10 @@
 </div>
 
 <div align="center">
-  <a href="https://tryhackme.com/p/dheeraj5988" target="_blank"><b>TryHackMe Profile</b></a>   🚀 LeetCode Grind | DSA
+  <a href="https://tryhackme.com/p/dheeraj5988" target="_blank"><b>TryHackMe Profile</b></a> |  
+  <a href="https://leetcode.com/u/dheeraj_5988/" target="_blank"><b>LeetCode Profile</b></a> 🚀  
+
+  🔥 **Current Streak:** ![LeetCode Streak](https://leetcard.jacoblin.cool/dheeraj_5988?theme=dark&ext=activity)
 </div>
 
 
