@@ -3,12 +3,13 @@
 - 👀 I’m interested in Cyber Security and currently learning Python, C++, Web Development, and Cyber Security (Pentesting, Vulnerability scanning, and more).  
 ### 🏆 My Cyber & Coding Progress  
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png" alt="TryHackMe Badge" height="120">
+<div align="center" style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png" alt="TryHackMe Badge" height="220">
   <img src="https://leetcard.jacoblin.cool/dheeraj_5988?theme=dark&ext=heatmap" width="400" alt="LeetCode Stats">
 </div>
 
 🔗 [TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)
+
 
 
 - 💞️ I’m looking to collaborate on Web App Pentesting  
