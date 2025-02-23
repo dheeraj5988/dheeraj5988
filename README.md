@@ -1,19 +1,20 @@
 # Hi, I’m Dheeraj Sharma 👋
   
 - 👀 I’m interested in Cyber Security and currently learning Python, C++, Web Development, and Cyber Security (Pentesting, Vulnerability scanning, and more).  
-- You can check my progress on TryHackMe:  
+### 🏆 My Cyber & Coding Progress   
   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png)  
   [TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)
-
-- 💞️ I’m looking to collaborate on Web App Pentesting  
-- 📫 How to reach me: +91 7568034592 (WhatsApp me)
-### 🏆 My Cyber & Coding Progress  
-[TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)  
-🚀 LeetCode Grind !  
-
-<p align="right">
+  <p align="right">
+    🚀 LeetCode Grind ! 
   <img src="https://leetcard.jacoblin.cool/dheeraj_5988?theme=dark&ext=heatmap" width="400">
 </p>
+- 💞️ I’m looking to collaborate on Web App Pentesting  
+- 📫 How to reach me: +91 7568034592 (WhatsApp me)
+
+[TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)  
+ 
+
+
 
 # 🏆 GitHub Trophies
 
