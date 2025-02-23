@@ -6,10 +6,10 @@
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
   <img src="https://tryhackme-badges.s3.amazonaws.com/dheeraj5988.png" alt="TryHackMe Badge" height="160">
   <img src="https://leetcard.jacoblin.cool/dheeraj_5988?theme=dark&ext=heatmap" width="400" alt="LeetCode Stats">
-  <span style="float: right;">🚀 LeetCode Grind | DSA </span>
+  <span style="float: right;">![TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)🚀 LeetCode Grind | DSA </span>
 </div>
 
-![TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)  
+  
   
 
 
