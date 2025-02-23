@@ -8,8 +8,10 @@
   <img src="https://leetcard.jacoblin.cool/dheeraj_5988?theme=dark&ext=heatmap" width="400" alt="LeetCode Stats">
 </div>
 
-🔗 [TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)
-
+<div align="center">
+  🔗 [TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)  
+  <span style="float: right;">🚀 LeetCode Grind | DSA Hustle</span>
+</div>
 
 
 - 💞️ I’m looking to collaborate on Web App Pentesting  
