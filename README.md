@@ -9,9 +9,9 @@
 - 💞️ I’m looking to collaborate on Web App Pentesting  
 - 📫 How to reach me: +91 7568034592 (WhatsApp me)
 
-[TryHackMe Profile](https://tryhackme.com/p/dheeraj5988)  
+
  
-\n
+
 
 
 # 🏆 GitHub Trophies
